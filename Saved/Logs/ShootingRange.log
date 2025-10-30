@@ -2428,3 +2428,1179 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Ground_Gravel has
 [2025.10.30-14.36.32:967][744]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
 [2025.10.30-14.36.32:981][744]LogAutomationController: Ignoring very large delta of 2.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2025.10.30-14.36.32:982][745]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-14.39.54:543][ 34]LogStreaming: Display: FlushAsyncLoading(637): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.40.04:136][123]LogStreaming: Display: FlushAsyncLoading(638): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Total job queries 982, among them cache hits 194 (19.76%), DDC hits 601 (61.20%), Duplicates 70 (7.13%)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Tracking 718 distinct input hashes that result in 530 distinct outputs (73.82%)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: RAM used: 5.34 MiB of 1.60 GiB budget. Usage: 0.33%
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Shaders Compiled: 117
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Jobs assigned 117, completed 117 (100%)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Average time worker was idle: 28.93 s
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 1.03 s
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 1.08
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Shader code size: total 1.086 MiB, numShaders 132, average 8.427 KiB, min 2.891 KiB, max 13.48 KiB
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.95 s
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Jobs were issued in 117 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Average processing rate: 4.19 jobs/sec
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Total thread time: 45.394 s
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Total thread preprocess time: 10.273 s
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Percentage time preprocessing: 22.63%
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Effective parallelization: 1.62 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.135322
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   26 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   12 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.34 sec, max 0.35 sec, min 0.33 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.53% of total time (compiled   26 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.51% of total time (compiled   47 times, average 0.27 sec, max 0.53 sec, min 0.23 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 17.01% of total time (compiled   12 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                                                  FVelocityPS - 9.75% of total time (compiled   12 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display:                                                  FVelocityVS - 5.94% of total time (compiled   12 times, average 0.22 sec, max 0.34 sec, min 0.21 sec)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Materials Translated:    155
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Material Translation Only: 0.03 s (35%)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2025.10.30-14.40.05:025][194]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.40.11:511][933]LogStreaming: Display: FlushAsyncLoading(639): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.40.17:495][566]LogStreaming: Display: FlushAsyncLoading(640): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.40.49:135][ 84]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.30-14.40.57:718][ 22]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-14.40.57:721][ 22]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.30-14.40.57:721][ 22]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.30-14.40.57:722][ 22]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 354 us (total: 1.759 ms)
+[2025.10.30-14.40.57:722][ 22]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-14.40.57:722][ 22]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.40.57:724][ 22]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.30-14.40.57:724][ 22]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 314 us (total: 1.231 ms)
+[2025.10.30-14.40.57:724][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002182s)
+[2025.10.30-14.40.57:724][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002205s)
+[2025.10.30-14.40.57:744][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.30-14.40.57:745][ 22]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.30-14.40.57:746][ 22]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.30-14.40.57:746][ 22]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.30-14.40.57:746][ 22]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.30-14.40.57:746][ 22]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.30-14.40.57:747][ 22]LogWorldPartition: Display: WorldPartition initialize took 564 us (total: 44.265 ms)
+[2025.10.30-14.40.57:747][ 22]LogPlayLevel: PIE: World Init took: (0.001858s)
+[2025.10.30-14.40.57:747][ 22]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.30-14.40.57:747][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.40.57:747][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.40.57:747][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.40.57:747][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.40.57:748][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.40.57:748][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.40.57:748][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.40.57:748][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.40.57:748][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.40.57:748][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.40.57:748][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.40.57:749][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.40.57:765][ 22]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.30-14.40.57:765][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.40.57:765][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.40.57:765][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.40.57:766][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.30-14.40.57:766][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.30-14.40.57:768][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.30-14.40.57:768][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.30-14.40.57:768][ 22]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.30-14.40.57:768][ 22]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_FirstPerson'.
+[2025.10.30-14.40.57:768][ 22]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.30-14.40.57:771][ 22]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.30-14.40.57:772][ 22]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.30-14.40.57
+[2025.10.30-14.40.57:772][ 22]LogWorld: Bringing up level for play took: 0.000943
+[2025.10.30-14.40.57:774][ 22]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.10.30-14.40.57:778][ 22]PIE: Server logged in
+[2025.10.30-14.40.57:780][ 22]PIE: Play in editor total start time 0.059 seconds.
+[2025.10.30-14.40.57:823][ 23]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.30-14.41.00:305][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.41.00:305][245]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.41.00:305][245]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.41.00:306][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.41.00:306][245]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.30-14.41.00:307][245]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.41.00:309][245]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.41.00:325][245]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-14.41.00:325][245]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.30-14.41.00:325][245]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.30-14.41.00:327][245]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.30-14.41.00:330][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.41.00:332][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.30-14.41.00:380][247]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.10.30-14.41.06:379][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.30-14.41.07:767][828]LogSlate: Window 'Save Content' being destroyed
+[2025.10.30-14.41.07:781][828]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.41.07:825][828]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/Obstacles/BP_BasicObstacle] ([2] browsable assets)...
+[2025.10.30-14.41.07:836][828]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle]
+[2025.10.30-14.41.07:836][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/BP_BasicObstacle]
+[2025.10.30-14.41.07:839][828]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Obstacles/BP_BasicObstacle
+[2025.10.30-14.41.07:839][828]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/BP_BasicObstacleD2CA3286421780E2CA5D808DAE5F5BD1.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/Production/Blueprints/Obstacles/BP_BasicObstacle.uasset'
+[2025.10.30-14.41.07:845][828]LogFileHelpers: InternalPromptForCheckoutAndSave took 63.247 ms (total: 1.45 sec)
+[2025.10.30-14.41.07:892][828]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.41.07:892][828]LogContentValidation: Enabled validators:
+[2025.10.30-14.41.07:892][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.41.07:892][828]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.41.07:892][828]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.41.07:892][828]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.41.07:892][828]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.41.07:892][828]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.41.07:892][828]AssetCheck: /Game/Production/Blueprints/Obstacles/BP_BasicObstacle Validating asset
+[2025.10.30-14.41.24:529][740]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.30-14.41.24:576][740]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.30-14.41.24:580][740]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.30-14.41.24:582][740]LogAutomationController: Ignoring very large delta of 7.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.30-14.41.24:587][741]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.30-14.41.27:700][ 76]LogContentBrowser: Attempting asset rename: NewBlueprint -> NewBlueprint
+[2025.10.30-14.41.27:705][ 76]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.30-14.41.30:496][337]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.41.30:497][337]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Production/Blueprints/NewBlueprint] ([2] browsable assets)...
+[2025.10.30-14.41.30:497][337]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/NewBlueprint]
+[2025.10.30-14.41.30:498][337]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/NewBlueprint
+[2025.10.30-14.41.30:498][337]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/NewBlueprint7E9FB1E140BE7ADF1D65959452B5B8FA.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/Production/Blueprints/NewBlueprint.uasset'
+[2025.10.30-14.41.30:502][337]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.625 ms (total: 1.45 sec)
+[2025.10.30-14.41.30:534][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-14.41.30:551][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.41.30:570][337]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.30-14.41.30:586][337]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.30-14.41.30:586][337]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.41.30:586][337]LogContentValidation: Enabled validators:
+[2025.10.30-14.41.30:586][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.41.30:586][337]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.41.30:586][337]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.41.30:586][337]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.41.30:586][337]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.41.30:586][337]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.41.30:586][337]AssetCheck: /Game/Production/Blueprints/NewBlueprint Validating asset
+[2025.10.30-14.41.30:594][337]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-14.41.35:442][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.41.35:442][810]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Production/Blueprints/Obstacles/NewBlueprint] ([2] browsable assets)...
+[2025.10.30-14.41.35:442][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/NewBlueprint]
+[2025.10.30-14.41.35:445][810]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Obstacles/NewBlueprint
+[2025.10.30-14.41.35:445][810]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/NewBlueprintED00A49A4C8C391F24BD4D8B4B8444DB.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/Production/Blueprints/Obstacles/NewBlueprint.uasset'
+[2025.10.30-14.41.35:448][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 5.553 ms (total: 1.46 sec)
+[2025.10.30-14.41.35:481][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.30-14.41.35:496][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.41.35:510][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.30-14.41.35:525][810]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2025.10.30-14.41.35:525][810]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.41.35:525][810]LogContentValidation: Enabled validators:
+[2025.10.30-14.41.35:525][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.41.35:525][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.41.35:525][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.41.35:525][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.41.35:525][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.41.35:525][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.41.35:525][810]AssetCheck: /Game/Production/Blueprints/Obstacles/NewBlueprint Validating asset
+[2025.10.30-14.41.35:536][810]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-14.41.39:217][174]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_10
+[2025.10.30-14.41.45:163][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2082.666260
+[2025.10.30-14.41.45:362][846]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Barrels
+[2025.10.30-14.41.45:446][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.41.45:446][846]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Production/Blueprints/Obstacles/BP_Barrels] ([2] browsable assets)...
+[2025.10.30-14.41.45:446][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/BP_Barrels]
+[2025.10.30-14.41.45:448][846]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Obstacles/BP_Barrels
+[2025.10.30-14.41.45:448][846]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/BP_BarrelsA3EA52EB4545EB58264732AAC67AF2D0.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/Production/Blueprints/Obstacles/BP_Barrels.uasset'
+[2025.10.30-14.41.45:452][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 6.003 ms (total: 1.46 sec)
+[2025.10.30-14.41.45:477][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.30-14.41.45:497][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.30-14.41.45:516][846]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.30-14.41.45:557][846]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.41.45:557][846]LogContentValidation: Enabled validators:
+[2025.10.30-14.41.45:557][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.41.45:557][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.41.45:557][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.41.45:557][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.41.45:557][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.41.45:557][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.41.45:557][846]AssetCheck: /Game/Production/Blueprints/Obstacles/BP_Barrels Validating asset
+[2025.10.30-14.41.45:584][846]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-14.41.46:075][903]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.41.46:075][903]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2083.569336, Update Interval: 350.214539
+[2025.10.30-14.41.46:497][951]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels
+[2025.10.30-14.41.46:497][951]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_11
+[2025.10.30-14.42.36:383][840]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_12
+[2025.10.30-14.42.49:349][378]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.30-14.42.51:343][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels_C
+[2025.10.30-14.42.51:343][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels_C
+[2025.10.30-14.42.51:344][563]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels as actor: BP_Barrels_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Barrels_C_0
+[2025.10.30-14.42.51:345][563]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels as actor: BP_Barrels_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Barrels_C_0
+[2025.10.30-14.42.56:470][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-14.42.56:471][117]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.30-14.42.56:475][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels_C
+[2025.10.30-14.42.56:475][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels_C
+[2025.10.30-14.42.56:477][117]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels as actor: BP_Barrels_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Barrels_C_UAID_D85ED3AE8664629D02_1103772547
+[2025.10.30-14.42.56:478][117]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels as actor: BP_Barrels_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Barrels_C_UAID_D85ED3AE8664629D02_1103772547
+[2025.10.30-14.42.59:403][434]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-14.42.59:406][434]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.30-14.42.59:407][434]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.30-14.42.59:407][434]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 398 us (total: 2.158 ms)
+[2025.10.30-14.42.59:408][434]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-14.42.59:445][434]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.42.59:447][434]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.30-14.42.59:448][434]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 339 us (total: 1.570 ms)
+[2025.10.30-14.42.59:448][434]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002276s)
+[2025.10.30-14.42.59:448][434]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002307s)
+[2025.10.30-14.42.59:465][434]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-14.42.59:466][434]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.30-14.42.59:467][434]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.30-14.42.59:467][434]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.30-14.42.59:467][434]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.30-14.42.59:467][434]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.30-14.42.59:467][434]LogWorldPartition: Display: WorldPartition initialize took 531 us (total: 44.796 ms)
+[2025.10.30-14.42.59:467][434]LogPlayLevel: PIE: World Init took: (0.001753s)
+[2025.10.30-14.42.59:468][434]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.30-14.42.59:468][434]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.42.59:468][434]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.42.59:468][434]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.42.59:468][434]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.42.59:468][434]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.42.59:468][434]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.42.59:468][434]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.42.59:468][434]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.42.59:468][434]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.42.59:468][434]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.42.59:468][434]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.42.59:470][434]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.42.59:484][434]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.30-14.42.59:484][434]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.42.59:484][434]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.42.59:484][434]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.42.59:484][434]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.30-14.42.59:484][434]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.30-14.42.59:486][434]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.30-14.42.59:486][434]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.30-14.42.59:486][434]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.30-14.42.59:486][434]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_FirstPerson'.
+[2025.10.30-14.42.59:486][434]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.30-14.42.59:489][434]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.30-14.42.59:490][434]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.30-14.42.59
+[2025.10.30-14.42.59:490][434]LogWorld: Bringing up level for play took: 0.000966
+[2025.10.30-14.42.59:493][434]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.10.30-14.42.59:498][434]PIE: Server logged in
+[2025.10.30-14.42.59:499][434]PIE: Play in editor total start time 0.093 seconds.
+[2025.10.30-14.42.59:536][435]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.30-14.43.00:835][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.43.00:835][564]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.43.00:835][564]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.43.00:835][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.43.00:835][564]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.30-14.43.00:837][564]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.43.00:839][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.43.00:913][564]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.43.00:913][564]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.30-14.43.00:913][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.30-14.43.00:915][564]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.30-14.43.00:920][564]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.30-14.43.00:942][565]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Total job queries 1,035, among them cache hits 214 (20.68%), DDC hits 614 (59.32%), Duplicates 70 (6.76%)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Tracking 751 distinct input hashes that result in 553 distinct outputs (73.64%)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: RAM used: 5.52 MiB of 1.60 GiB budget. Usage: 0.34%
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Shaders Compiled: 137
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Jobs assigned 137, completed 137 (100%)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Average time worker was idle: 38.64 s
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 1.03 s
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 1.08
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Shader code size: total 1.291 MiB, numShaders 158, average 8.37 KiB, min 2.406 KiB, max 13.48 KiB
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 31.82 s
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Jobs were issued in 137 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Average processing rate: 4.30 jobs/sec
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Total thread time: 54.036 s
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Total thread preprocess time: 10.801 s
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Percentage time preprocessing: 19.99%
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Effective parallelization: 1.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.141497
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 0.65 sec, max 0.71 sec, min 0.60 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   29 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   15 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 0.36 sec, max 0.41 sec, min 0.33 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 26.83% of total time (compiled   29 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.67% of total time (compiled   52 times, average 0.27 sec, max 0.53 sec, min 0.23 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 16.88% of total time (compiled   14 times, average 0.65 sec, max 0.71 sec, min 0.60 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                                                  FVelocityPS - 10.41% of total time (compiled   15 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display:                                                  FVelocityVS - 6.21% of total time (compiled   15 times, average 0.22 sec, max 0.34 sec, min 0.21 sec)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Materials Translated:    157
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Material Translation Only: 0.03 s (35%)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2025.10.30-14.43.05:029][991]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.44.22:256][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.30-14.44.29:171][882]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-14.44.29:174][882]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.30-14.44.29:174][882]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.30-14.44.29:174][882]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 446 us (total: 2.605 ms)
+[2025.10.30-14.44.29:175][882]LogPlayLevel: [PlayLevel] Compiling BP_Barrels before play...
+[2025.10.30-14.44.29:217][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.44.29:218][882]LogPlayLevel: PlayLevel: Blueprint regeneration took 43 ms (1 blueprints)
+[2025.10.30-14.44.29:218][882]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.44.29:220][882]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.30-14.44.29:220][882]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 345 us (total: 1.915 ms)
+[2025.10.30-14.44.29:220][882]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002216s)
+[2025.10.30-14.44.29:220][882]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002241s)
+[2025.10.30-14.44.29:241][882]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.44.29:241][882]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.30-14.44.29:242][882]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.30-14.44.29:242][882]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.30-14.44.29:242][882]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.30-14.44.29:242][882]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.30-14.44.29:243][882]LogWorldPartition: Display: WorldPartition initialize took 595 us (total: 45.392 ms)
+[2025.10.30-14.44.29:243][882]LogPlayLevel: PIE: World Init took: (0.001872s)
+[2025.10.30-14.44.29:243][882]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.30-14.44.29:243][882]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.44.29:243][882]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.44.29:243][882]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.44.29:243][882]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.44.29:243][882]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.44.29:243][882]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.44.29:243][882]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.44.29:243][882]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.44.29:243][882]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.44.29:243][882]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.44.29:243][882]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.44.29:245][882]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.44.29:260][882]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.30-14.44.29:260][882]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.44.29:260][882]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.44.29:260][882]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.44.29:261][882]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.30-14.44.29:261][882]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.30-14.44.29:262][882]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.30-14.44.29:262][882]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.30-14.44.29:263][882]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.30-14.44.29:263][882]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_FirstPerson'.
+[2025.10.30-14.44.29:263][882]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.30-14.44.29:266][882]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.30-14.44.29:267][882]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.30-14.44.29
+[2025.10.30-14.44.29:267][882]LogWorld: Bringing up level for play took: 0.000984
+[2025.10.30-14.44.29:269][882]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.10.30-14.44.29:274][882]PIE: Server logged in
+[2025.10.30-14.44.29:275][882]PIE: Play in editor total start time 0.101 seconds.
+[2025.10.30-14.44.29:317][883]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.30-14.44.30:716][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.44.30:716][ 19]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.44.30:716][ 19]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.44.30:717][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.44.30:717][ 19]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.30-14.44.30:721][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.44.30:721][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.44.30:735][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.44.30:735][ 19]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.30-14.44.30:735][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.10.30-14.44.30:737][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.10.30-14.44.30:742][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.30-14.44.30:792][ 21]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.10.30-14.44.46:426][745]LogStreaming: Display: FlushAsyncLoading(641): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.45.13:588][934]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:588][934]LogPhysics: Warning: Scale for /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Barrels_C_UAID_D85ED3AE8664629D02_1103772547.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:588][934]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:597][935]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:597][935]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:597][935]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:604][936]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:605][936]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:605][936]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:613][937]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:613][937]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:613][937]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:622][938]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:622][938]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:622][938]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:630][939]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:630][939]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:630][939]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:638][940]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:638][940]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:638][940]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:646][941]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:646][941]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:646][941]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:655][942]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:655][942]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:655][942]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:663][943]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:663][943]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:663][943]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:671][944]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:671][944]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:671][944]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:680][945]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:680][945]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:680][945]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:688][946]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:689][946]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:689][946]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:697][947]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:697][947]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:697][947]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:705][948]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:705][948]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:705][948]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:714][949]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:714][949]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:714][949]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:722][950]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:722][950]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:722][950]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:730][951]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:730][951]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:730][951]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:738][952]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:738][952]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:738][952]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:746][953]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:746][953]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:746][953]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:755][954]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:755][954]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:755][954]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:763][955]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:763][955]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:763][955]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:771][956]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:771][956]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:771][956]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:780][957]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:780][957]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:780][957]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:789][958]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:789][958]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:789][958]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:796][959]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:797][959]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:797][959]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:805][960]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:805][960]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:805][960]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:814][961]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:814][961]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:814][961]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:822][962]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:822][962]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:822][962]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:830][963]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:830][963]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:830][963]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:839][964]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:839][964]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:839][964]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:846][965]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:847][965]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:847][965]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:855][966]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:855][966]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:855][966]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:864][967]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:864][967]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:864][967]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:872][968]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:872][968]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:872][968]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:880][969]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:880][969]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:880][969]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:888][970]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:888][970]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:888][970]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:897][971]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:897][971]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:897][971]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:905][972]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:905][972]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:905][972]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:913][973]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:913][973]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:913][973]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:922][974]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:922][974]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:922][974]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:930][975]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:930][975]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:930][975]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:939][976]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:939][976]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:939][976]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:947][977]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:947][977]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:947][977]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:955][978]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:955][978]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:955][978]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:964][979]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:964][979]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:964][979]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:972][980]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:972][980]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:972][980]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:981][981]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:981][981]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:981][981]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:988][982]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:989][982]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:989][982]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:996][983]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:997][983]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.13:997][983]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:005][984]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:005][984]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:005][984]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:014][985]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:014][985]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:014][985]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:022][986]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:022][986]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:022][986]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:030][987]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:030][987]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:030][987]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:038][988]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:039][988]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:039][988]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:046][989]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:046][989]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:046][989]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:055][990]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:055][990]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:055][990]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:063][991]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:063][991]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:063][991]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:071][992]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:071][992]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:071][992]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:081][993]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:081][993]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:081][993]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:089][994]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:089][994]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:089][994]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:097][995]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:097][995]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:097][995]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:105][996]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:105][996]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:105][996]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:114][997]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:114][997]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:114][997]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:122][998]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:122][998]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:122][998]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:130][999]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:130][999]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:130][999]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:139][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:139][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:139][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:147][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:147][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:147][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:155][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:155][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:155][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:163][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:163][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:163][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:172][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.45.14:172][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_11:PersistentLevel.BP_Barrels_C_0.Cylinder1 has a component set to zero, which will result in a bad body instance. Scale:X=0.812 Y=0.812 Z=0.000
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Total job queries 1,042, among them cache hits 216 (20.73%), DDC hits 614 (58.93%), Duplicates 70 (6.72%)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Tracking 756 distinct input hashes that result in 556 distinct outputs (73.54%)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: RAM used: 5.54 MiB of 1.60 GiB budget. Usage: 0.34%
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Shaders Compiled: 142
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Jobs assigned 142, completed 142 (100%)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Average time worker was idle: 46.64 s
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 1.03 s
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 1.08
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Shader code size: total 1.328 MiB, numShaders 163, average 8.345 KiB, min 2.406 KiB, max 13.48 KiB
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 32.56 s
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Jobs were issued in 142 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Average processing rate: 4.36 jobs/sec
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Total thread time: 55.471 s
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Total thread preprocess time: 10.869 s
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Percentage time preprocessing: 19.59%
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Effective parallelization: 1.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.141951
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 0.65 sec, max 0.71 sec, min 0.60 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   30 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   15 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 0.36 sec, max 0.41 sec, min 0.33 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.08% of total time (compiled   30 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.54% of total time (compiled   53 times, average 0.27 sec, max 0.53 sec, min 0.23 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 16.44% of total time (compiled   14 times, average 0.65 sec, max 0.71 sec, min 0.60 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                                                  FVelocityPS - 10.14% of total time (compiled   15 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display:                                                  FVelocityVS - 6.05% of total time (compiled   15 times, average 0.22 sec, max 0.34 sec, min 0.21 sec)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Materials Translated:    158
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Material Translation Only: 0.03 s (36%)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2025.10.30-14.46.05:032][ 70]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.46.53:036][773]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-14.47.06:749][270]LogStreaming: Display: FlushAsyncLoading(642): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.47.34:191][467]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.10.30-14.47.44:499][557]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-14.47.44:502][557]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.30-14.47.44:502][557]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.30-14.47.44:502][557]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 451 us (total: 3.056 ms)
+[2025.10.30-14.47.44:503][557]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-14.47.44:503][557]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.47.44:504][557]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.30-14.47.44:505][557]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 375 us (total: 2.291 ms)
+[2025.10.30-14.47.44:505][557]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002389s)
+[2025.10.30-14.47.44:505][557]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002412s)
+[2025.10.30-14.47.44:523][557]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-14.47.44:523][557]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.30-14.47.44:524][557]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.30-14.47.44:524][557]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.30-14.47.44:524][557]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.30-14.47.44:524][557]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.30-14.47.44:525][557]LogWorldPartition: Display: WorldPartition initialize took 613 us (total: 46.005 ms)
+[2025.10.30-14.47.44:525][557]LogPlayLevel: PIE: World Init took: (0.001778s)
+[2025.10.30-14.47.44:525][557]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.10.30-14.47.44:525][557]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.47.44:525][557]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.47.44:525][557]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.47.44:525][557]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.47.44:525][557]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.47.44:525][557]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.47.44:525][557]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.47.44:525][557]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.47.44:525][557]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.47.44:525][557]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.47.44:525][557]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.47.44:527][557]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.47.44:541][557]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.30-14.47.44:541][557]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.47.44:541][557]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.47.44:541][557]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.47.44:542][557]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.10.30-14.47.44:542][557]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.10.30-14.47.44:544][557]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.10.30-14.47.44:544][557]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.10.30-14.47.44:544][557]LogInit: FAudioDevice initialized with ID 8.
+[2025.10.30-14.47.44:544][557]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_FirstPerson'.
+[2025.10.30-14.47.44:544][557]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.30-14.47.44:547][557]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.30-14.47.44:548][557]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.30-14.47.44
+[2025.10.30-14.47.44:548][557]LogWorld: Bringing up level for play took: 0.000974
+[2025.10.30-14.47.44:550][557]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.10.30-14.47.44:555][557]PIE: Server logged in
+[2025.10.30-14.47.44:557][557]PIE: Play in editor total start time 0.054 seconds.
+[2025.10.30-14.47.44:601][558]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.30-14.47.55:316][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.47.55:316][760]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.47.55:316][760]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.47.55:316][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.47.55:316][760]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.30-14.47.55:319][760]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.47.55:322][760]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.47.55:336][760]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-14.47.55:336][760]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.30-14.47.55:336][760]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.10.30-14.47.55:338][760]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.10.30-14.47.55:342][760]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.47.55:344][760]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.30-14.47.55:425][762]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2025.10.30-14.48.15:379][128]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2472.866455
+[2025.10.30-14.48.16:246][228]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.48.16:246][228]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2473.723877, Update Interval: 326.776337
+[2025.10.30-14.48.26:669][446]LogStreaming: Display: FlushAsyncLoading(643): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.48.30:839][907]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-14.48.35:255][412]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-14.48.35:259][412]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.30-14.48.35:259][412]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.30-14.48.35:259][412]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 398 us (total: 3.455 ms)
+[2025.10.30-14.48.35:259][412]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-14.48.35:295][412]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.48.35:297][412]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.30-14.48.35:297][412]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 382 us (total: 2.673 ms)
+[2025.10.30-14.48.35:297][412]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002649s)
+[2025.10.30-14.48.35:297][412]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002687s)
+[2025.10.30-14.48.35:316][412]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.30-14.48.35:317][412]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.30-14.48.35:318][412]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.30-14.48.35:318][412]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.30-14.48.35:319][412]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.30-14.48.35:319][412]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.30-14.48.35:319][412]LogWorldPartition: Display: WorldPartition initialize took 599 us (total: 46.604 ms)
+[2025.10.30-14.48.35:319][412]LogPlayLevel: PIE: World Init took: (0.001837s)
+[2025.10.30-14.48.35:320][412]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.10.30-14.48.35:320][412]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.48.35:320][412]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.48.35:320][412]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.48.35:320][412]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.48.35:320][412]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.48.35:320][412]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.48.35:320][412]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.48.35:320][412]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.48.35:320][412]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.48.35:320][412]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.48.35:320][412]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.48.35:321][412]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.48.35:335][412]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.30-14.48.35:335][412]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.48.35:335][412]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.48.35:335][412]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.48.35:336][412]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.10.30-14.48.35:336][412]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.10.30-14.48.35:338][412]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.10.30-14.48.35:338][412]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.10.30-14.48.35:338][412]LogInit: FAudioDevice initialized with ID 9.
+[2025.10.30-14.48.35:338][412]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_FirstPerson'.
+[2025.10.30-14.48.35:338][412]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.30-14.48.35:341][412]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.30-14.48.35:342][412]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.30-14.48.35
+[2025.10.30-14.48.35:342][412]LogWorld: Bringing up level for play took: 0.000970
+[2025.10.30-14.48.35:344][412]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2025.10.30-14.48.35:349][412]PIE: Server logged in
+[2025.10.30-14.48.35:351][412]PIE: Play in editor total start time 0.092 seconds.
+[2025.10.30-14.48.35:388][413]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.30-14.48.43:615][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.48.43:615][365]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.48.43:615][365]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.48.43:616][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.48.43:616][365]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.30-14.48.43:618][365]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.48.43:620][365]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.48.43:635][365]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-14.48.43:635][365]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.30-14.48.43:635][365]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.10.30-14.48.43:637][365]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.10.30-14.48.43:640][365]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.48.43:642][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.10.30-14.48.43:717][367]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2025.10.30-14.48.51:834][184]LogStreaming: Display: FlushAsyncLoading(644): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Total job queries 1,070, among them cache hits 227 (21.21%), DDC hits 623 (58.22%), Duplicates 70 (6.54%)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Tracking 773 distinct input hashes that result in 568 distinct outputs (73.48%)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: RAM used: 5.63 MiB of 1.60 GiB budget. Usage: 0.34%
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Shaders Compiled: 150
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Jobs assigned 150, completed 150 (100%)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Average time worker was idle: 48.98 s
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 1.03 s
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 1.08
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Shader code size: total 1.404 MiB, numShaders 171, average 8.411 KiB, min 2.406 KiB, max 13.48 KiB
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 34.67 s
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Jobs were issued in 150 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Average processing rate: 4.33 jobs/sec
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Total thread time: 58.206 s
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Total thread preprocess time: 11.106 s
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Percentage time preprocessing: 19.08%
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Effective parallelization: 1.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.139893
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 0.65 sec, max 0.71 sec, min 0.60 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   33 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   15 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 0.36 sec, max 0.41 sec, min 0.33 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.46% of total time (compiled   33 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.74% of total time (compiled   56 times, average 0.27 sec, max 0.53 sec, min 0.23 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.67% of total time (compiled   14 times, average 0.65 sec, max 0.71 sec, min 0.60 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                                                  FVelocityPS - 9.66% of total time (compiled   15 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display:                                                  FVelocityVS - 5.76% of total time (compiled   15 times, average 0.22 sec, max 0.34 sec, min 0.21 sec)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Materials Translated:    161
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Material Translation Only: 0.03 s (36%)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: Material Cache Hits: 23 (14%)
+[2025.10.30-14.49.05:037][704]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.49.35:930][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.30-14.49.48:763][810]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-14.49.49:966][810]LogSlate: Window 'Save Content' being destroyed
+[2025.10.30-14.49.49:981][810]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.49.50:039][810]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/Obstacles/BP_Barrels] ([2] browsable assets)...
+[2025.10.30-14.49.50:050][810]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrels.BP_Barrels]
+[2025.10.30-14.49.50:051][810]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/BP_Barrels]
+[2025.10.30-14.49.50:054][810]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Obstacles/BP_Barrels
+[2025.10.30-14.49.50:054][810]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/BP_BarrelsD30C07BF46E8D2F6A61BCFB63E619B98.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/Production/Blueprints/Obstacles/BP_Barrels.uasset'
+[2025.10.30-14.49.50:056][810]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/H2/CRG9FRC9QK1DPMM5ZJM51T
+[2025.10.30-14.49.50:056][810]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/CRG9FRC9QK1DPMM5ZJM51T373E6FFF48E31454659A28A7E24CC1B1.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/H2/CRG9FRC9QK1DPMM5ZJM51T.uasset'
+[2025.10.30-14.49.50:063][810]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.932 ms (total: 1.54 sec)
+[2025.10.30-14.49.50:107][810]LogContentValidation: Display: Starting to validate 3 assets
+[2025.10.30-14.49.50:107][810]LogContentValidation: Enabled validators:
+[2025.10.30-14.49.50:107][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.49.50:107][810]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.49.50:107][810]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.49.50:107][810]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.49.50:107][810]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.49.50:107][810]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.49.50:107][810]AssetCheck: /Game/Production/Blueprints/Obstacles/BP_Barrels Validating asset
+[2025.10.30-14.49.50:107][810]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.30-14.49.50:121][810]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-14.49.59:510][849]LogContentBrowser: Attempting asset rename: BP_Barrels -> BP_Barrel
+[2025.10.30-14.49.59:586][849]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.49.59:586][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Production/Blueprints/Obstacles/BP_Barrel] ([2] browsable assets)...
+[2025.10.30-14.49.59:586][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/BP_Barrel]
+[2025.10.30-14.49.59:589][849]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Obstacles/BP_Barrel
+[2025.10.30-14.49.59:589][849]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/BP_BarrelDB3F59D64EE581AD4005D3AC455C8792.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/Production/Blueprints/Obstacles/BP_Barrel.uasset'
+[2025.10.30-14.49.59:593][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Production/Blueprints/Obstacles/BP_Barrels] ([5] browsable assets)...
+[2025.10.30-14.49.59:593][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/BP_Barrels]
+[2025.10.30-14.49.59:593][849]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Obstacles/BP_Barrels
+[2025.10.30-14.49.59:593][849]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/BP_BarrelsE705E2214BC5094CC12CD383FDEAEB1B.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/Production/Blueprints/Obstacles/BP_Barrels.uasset'
+[2025.10.30-14.49.59:596][849]LogFileHelpers: InternalPromptForCheckoutAndSave took 8.927 ms (total: 1.55 sec)
+[2025.10.30-14.49.59:655][849]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.30-14.49.59:655][849]LogContentValidation: Enabled validators:
+[2025.10.30-14.49.59:655][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.49.59:655][849]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.49.59:655][849]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.49.59:655][849]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.49.59:656][849]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.49.59:656][849]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.49.59:656][849]AssetCheck: /Game/Production/Blueprints/Obstacles/BP_Barrel Validating asset
+[2025.10.30-14.49.59:656][849]AssetCheck: /Game/Production/Blueprints/Obstacles/BP_Barrels Validating asset
+[2025.10.30-14.49.59:656][849]AssetCheck: /Game/Production/Blueprints/Obstacles/BP_Barrels Validating asset
+[2025.10.30-14.49.59:656][849]AssetCheck: /Game/Production/Blueprints/Obstacles/BP_Barrels Validating asset
+[2025.10.30-14.49.59:661][849]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_13
+[2025.10.30-14.49.59:689][849]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-14.50.02:009][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Barrel.BP_Barrel_C
+[2025.10.30-14.50.02:010][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Barrel.BP_Barrel_C
+[2025.10.30-14.50.02:012][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrel.BP_Barrel as actor: BP_Barrel_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Barrel_C_0
+[2025.10.30-14.50.02:014][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrel.BP_Barrel as actor: BP_Barrel_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Barrel_C_0
+[2025.10.30-14.50.05:252][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.50.05:255][466]LogEditorActor: Deleted 0 Actors (0.022 secs)
+[2025.10.30-14.50.05:258][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Barrel.BP_Barrel_C
+[2025.10.30-14.50.05:258][466]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Barrel.BP_Barrel_C
+[2025.10.30-14.50.05:260][466]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrel.BP_Barrel as actor: BP_Barrel_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Barrel_C_UAID_D85ED3AE8664629D02_1532555548
+[2025.10.30-14.50.05:262][466]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Barrel.BP_Barrel as actor: BP_Barrel_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Barrel_C_UAID_D85ED3AE8664629D02_1532555548
+[2025.10.30-14.50.40:677][982]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.30-14.50.40:680][982]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/SH/SYEFELGLZH521AZMEUN0FA_Auto2
+[2025.10.30-14.50.40:680][982]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SYEFELGLZH521AZMEUN0FA_Auto2DAF0DE9B4C94D0714F690D90C8950C2C.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/SH/SYEFELGLZH521AZMEUN0FA_Auto2.uasset'
+[2025.10.30-14.50.40:681][982]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.022
+[2025.10.30-14.50.40:681][982]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.022
+[2025.10.30-14.51.24:825][262]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.30-14.51.24:844][262]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.30-14.51.24:849][262]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.30-14.51.24:857][263]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.30-14.51.35:617][554]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Beams
+[2025.10.30-14.51.35:622][554]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.30-14.51.37:377][760]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams
+[2025.10.30-14.51.37:378][760]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_14
+[2025.10.30-14.51.58:717][246]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_15
+[2025.10.30-14.52.09:604][524]LogStreaming: Display: FlushAsyncLoading(645): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.52.23:442][140]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.30-14.52.24:859][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.52.24:859][266]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.52.24:860][266]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_0
+[2025.10.30-14.52.24:860][266]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_0
+[2025.10.30-14.52.25:780][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.30-14.52.25:787][355]LogEditorActor: Deleted 0 Actors (0.039 secs)
+[2025.10.30-14.52.25:791][355]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.52.25:791][355]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.52.25:793][355]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_UAID_D85ED3AE8664629D02_1673088549
+[2025.10.30-14.52.25:795][355]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_UAID_D85ED3AE8664629D02_1673088549
+[2025.10.30-14.52.30:771][945]Cmd: DELETE
+[2025.10.30-14.52.30:771][945]Cmd: ACTOR DELETE
+[2025.10.30-14.52.30:772][945]LogEditorActor: Deleted Actor: BP_Beams_C
+[2025.10.30-14.52.30:795][945]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.30-14.52.30:797][945]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2025.10.30-14.53.19:498][771]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-14.53.20:989][893]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-14.54.25:811][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.10.30-14.54.28:135][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.54.28:135][270]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.54.28:136][270]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_1
+[2025.10.30-14.54.28:137][270]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_1
+[2025.10.30-14.54.30:515][550]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.54.30:517][550]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.30-14.54.30:520][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.54.30:520][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.54.30:523][550]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_UAID_D85ED3AE8664629D02_1797817550
+[2025.10.30-14.54.30:523][550]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_UAID_D85ED3AE8664629D02_1797817550
+[2025.10.30-14.54.31:401][651]Cmd: DELETE
+[2025.10.30-14.54.31:401][651]Cmd: ACTOR DELETE
+[2025.10.30-14.54.31:402][651]LogEditorActor: Deleted Actor: BP_Beams_C
+[2025.10.30-14.54.31:418][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.10.30-14.54.31:419][651]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2025.10.30-14.54.40:927][779]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2858.419189
+[2025.10.30-14.54.41:085][798]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.54.41:085][798]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2858.569336, Update Interval: 356.317627
+[2025.10.30-14.54.55:099][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.54.56:251][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.54.56:251][563]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.54.56:252][563]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_2
+[2025.10.30-14.54.56:252][563]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_2
+[2025.10.30-14.54.59:275][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.54.59:276][917]LogEditorActor: Deleted 0 Actors (0.026 secs)
+[2025.10.30-14.54.59:279][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.54.59:279][917]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-14.54.59:282][917]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_UAID_D85ED3AE8664629D02_1826576551
+[2025.10.30-14.54.59:283][917]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_UAID_D85ED3AE8664629D02_1826576551
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Total job queries 1,077, among them cache hits 231 (21.45%), DDC hits 624 (57.94%), Duplicates 70 (6.50%)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Tracking 776 distinct input hashes that result in 571 distinct outputs (73.58%)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: RAM used: 5.65 MiB of 1.60 GiB budget. Usage: 0.34%
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Shaders Compiled: 152
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Jobs assigned 152, completed 152 (100%)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Average time worker was idle: 51.02 s
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 1.03 s
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 1.08
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Shader code size: total 1.426 MiB, numShaders 173, average 8.443 KiB, min 2.406 KiB, max 13.48 KiB
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 35.41 s
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Jobs were issued in 152 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Average processing rate: 4.29 jobs/sec
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Total thread time: 59.023 s
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Total thread preprocess time: 11.167 s
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Percentage time preprocessing: 18.92%
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Effective parallelization: 1.67 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.138905
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 0.65 sec, max 0.71 sec, min 0.60 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   34 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   15 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    5 times, average 0.36 sec, max 0.41 sec, min 0.33 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                                                FAnisotropyPS (compiled    1 times, average 0.36 sec, max 0.36 sec, min 0.36 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 28.97% of total time (compiled   34 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 25.86% of total time (compiled   57 times, average 0.27 sec, max 0.53 sec, min 0.23 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 15.45% of total time (compiled   14 times, average 0.65 sec, max 0.71 sec, min 0.60 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                                                  FVelocityPS - 9.53% of total time (compiled   15 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display:                                                  FVelocityVS - 5.68% of total time (compiled   15 times, average 0.22 sec, max 0.34 sec, min 0.21 sec)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Materials Translated:    162
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Material Total Translate Time: 0.09 s
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Material Translation Only: 0.03 s (36%)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: Material Cache Hits: 23 (14%)
+[2025.10.30-14.55.05:048][587]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.55.11:965][407]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-14.55.56:301][648]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-14.56.12:517][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.30-14.59.04:539][954]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-14.59.08:972][430]LogEditorTransaction: Redo Modify Component(s)
+[2025.10.30-14.59.40:694][117]LogEditorTransaction: Undo Set Rotation
+[2025.10.30-14.59.48:785][ 21]LogEditorTransaction: Undo Set Rotation
+[2025.10.30-15.01.18:469][671]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3255.967041
+[2025.10.30-15.01.18:627][690]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-15.01.18:627][690]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3256.116699, Update Interval: 324.121216
+[2025.10.30-15.01.49:165][331]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.30-15.02.04:212][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.30-15.02.11:206][895]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.30-15.02.32:818][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.30-15.02.43:611][700]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.43:809][703]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.44:245][722]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.44:725][776]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.30-15.02.45:162][827]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.45:552][870]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.46:093][932]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.46:491][976]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.46:903][ 22]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.47:274][ 63]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.47:694][ 71]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.47:987][ 92]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.48:151][109]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.48:303][124]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.48:572][153]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.48:772][173]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.50:006][318]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.50:460][369]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.51:173][451]LogEditorTransaction: Undo Paste Component(s)
+[2025.10.30-15.02.51:661][461]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.52:350][534]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.02.53:768][701]LogEditorTransaction: Redo Modify Component(s)
+[2025.10.30-15.02.54:206][751]LogEditorTransaction: Redo Modify Component(s)
+[2025.10.30-15.02.54:693][806]LogEditorTransaction: Redo Paste Component(s)
+[2025.10.30-15.02.55:261][817]LogEditorTransaction: Redo Modify Component(s)
+[2025.10.30-15.02.55:779][874]LogEditorTransaction: Redo Modify Component(s)
+[2025.10.30-15.02.57:375][ 62]LogEditorTransaction: Redo Modify Component(s)
+[2025.10.30-15.02.58:163][152]LogEditorTransaction: Redo Modify Component(s)
+[2025.10.30-15.02.59:484][306]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.03.07:500][204]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-15.03.41:769][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-15.03.41:816][ 54]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/WF/IGR2YOKFX5IF6R6QO0AVPJ
+[2025.10.30-15.03.41:816][ 54]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/IGR2YOKFX5IF6R6QO0AVPJ3FE7080042C5C6F5B530299969691739.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/WF/IGR2YOKFX5IF6R6QO0AVPJ.uasset'
+[2025.10.30-15.03.41:821][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 52.760 ms (total: 1.60 sec)
+[2025.10.30-15.03.41:880][ 54]LogContentValidation: Display: Starting to validate 6 assets
+[2025.10.30-15.03.41:880][ 54]LogContentValidation: Enabled validators:
+[2025.10.30-15.03.41:880][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-15.03.41:880][ 54]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-15.03.41:880][ 54]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-15.03.41:880][ 54]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-15.03.41:880][ 54]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-15.03.41:880][ 54]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-15.03.41:880][ 54]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.30-15.03.41:895][ 54]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-15.05.43:646][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.10.30-15.05.43:651][222]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/SH/SYEFELGLZH521AZMEUN0FA_Auto3
+[2025.10.30-15.05.43:651][222]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SYEFELGLZH521AZMEUN0FA_Auto33F48AEA74B32075132593DAD1AC89D3F.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/SH/SYEFELGLZH521AZMEUN0FA_Auto3.uasset'
+[2025.10.30-15.05.43:652][222]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/WF/IGR2YOKFX5IF6R6QO0AVPJ_Auto3
+[2025.10.30-15.05.43:652][222]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/IGR2YOKFX5IF6R6QO0AVPJ_Auto347FB1D054E05A17AFF7D38AF5FB6C26D.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/7/WF/IGR2YOKFX5IF6R6QO0AVPJ_Auto3.uasset'
+[2025.10.30-15.05.43:652][222]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.041
+[2025.10.30-15.05.43:652][222]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2025.10.30-15.05.43:653][222]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/Obstacles/BP_Beams] ([2] browsable assets)...
+[2025.10.30-15.05.43:772][222]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams]
+[2025.10.30-15.05.43:772][222]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/BP_Beams]
+[2025.10.30-15.05.43:776][222]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Production/Blueprints/Obstacles/BP_Beams_Auto3
+[2025.10.30-15.05.43:776][222]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/BP_Beams_Auto343559D704983B64B4E3B4385E8988EED.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/Autosaves/Game/Production/Blueprints/Obstacles/BP_Beams_Auto3.uasset'
+[2025.10.30-15.05.43:776][222]LogFileHelpers: Auto-saving content packages took 0.123
+[2025.10.30-15.07.14:376][851]LogEditorTransaction: Undo Add Component
+[2025.10.30-15.07.24:733][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3622.187988
+[2025.10.30-15.07.24:883][ 30]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-15.07.24:883][ 30]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3622.328613, Update Interval: 308.868073
+[2025.10.30-15.07.33:752][ 92]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-15.08.26:062][514]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-15.08.59:451][461]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.30-15.09.00:108][532]LogDerivedDataCache: C:/Users/karlt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.30-15.09.07:920][455]Cmd: DELETE
+[2025.10.30-15.09.07:920][455]Cmd: ACTOR DELETE
+[2025.10.30-15.09.07:921][455]LogEditorActor: Deleted Actor: BP_Beams_C
+[2025.10.30-15.09.07:945][455]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.30-15.09.07:947][455]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.10.30-15.09.08:844][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-15.09.08:844][535]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-15.09.08:847][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_3
+[2025.10.30-15.09.08:849][535]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_3
+[2025.10.30-15.09.14:029][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.30-15.09.14:031][141]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.10.30-15.09.14:034][141]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-15.09.14:034][141]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams_C
+[2025.10.30-15.09.14:036][141]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_UAID_D85ED3AE8664639D02_1607589728
+[2025.10.30-15.09.14:039][141]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams as actor: BP_Beams_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_Beams_C_UAID_D85ED3AE8664639D02_1607589728
+[2025.10.30-15.09.25:955][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.30-15.09.30:996][107]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.30-15.09.37:255][820]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.30-15.09.42:805][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.30-15.09.45:755][780]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-15.09.45:759][780]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.30-15.09.45:759][780]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.30-15.09.45:759][780]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 546 us (total: 4.002 ms)
+[2025.10.30-15.09.45:761][780]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-15.09.45:795][780]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-15.09.45:798][780]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.30-15.09.45:798][780]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 487 us (total: 3.161 ms)
+[2025.10.30-15.09.45:798][780]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003009s)
+[2025.10.30-15.09.45:798][780]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.003037s)
+[2025.10.30-15.09.45:813][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-15.09.45:816][780]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.30-15.09.45:817][780]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.30-15.09.45:817][780]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.30-15.09.45:817][780]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.30-15.09.45:817][780]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.30-15.09.45:818][780]LogWorldPartition: Display: WorldPartition initialize took 782 us (total: 47.387 ms)
+[2025.10.30-15.09.45:818][780]LogPlayLevel: PIE: World Init took: (0.002120s)
+[2025.10.30-15.09.45:818][780]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.10.30-15.09.45:819][780]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-15.09.45:819][780]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-15.09.45:819][780]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-15.09.45:819][780]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-15.09.45:819][780]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-15.09.45:819][780]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-15.09.45:819][780]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-15.09.45:819][780]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-15.09.45:819][780]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-15.09.45:819][780]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-15.09.45:819][780]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-15.09.45:820][780]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-15.09.45:835][780]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.30-15.09.45:836][780]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-15.09.45:836][780]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-15.09.45:836][780]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-15.09.45:836][780]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.10.30-15.09.45:836][780]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.10.30-15.09.45:838][780]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.10.30-15.09.45:838][780]LogInit: FAudioDevice initialized with ID 10.
+[2025.10.30-15.09.45:838][780]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.10.30-15.09.45:838][780]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_FirstPerson'.
+[2025.10.30-15.09.45:838][780]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.30-15.09.45:841][780]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.30-15.09.45:843][780]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.30-15.09.45
+[2025.10.30-15.09.45:843][780]LogWorld: Bringing up level for play took: 0.001386
+[2025.10.30-15.09.45:844][780]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.10.30-15.09.45:849][780]PIE: Server logged in
+[2025.10.30-15.09.45:850][780]PIE: Play in editor total start time 0.092 seconds.
+[2025.10.30-15.09.45:889][781]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.30-15.10.06:855][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-15.10.06:855][ 29]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-15.10.06:855][ 29]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-15.10.06:856][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-15.10.06:856][ 29]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.30-15.10.06:859][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-15.10.06:862][ 29]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-15.10.06:893][ 29]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.30-15.10.06:893][ 29]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.30-15.10.06:893][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.10.30-15.10.06:894][ 29]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.10.30-15.10.06:898][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-15.10.06:900][ 29]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.30-15.10.06:977][ 31]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.10.30-15.10.13:073][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-15.10.18:340][257]Cmd: DELETE
+[2025.10.30-15.10.18:340][257]Cmd: ACTOR DELETE
+[2025.10.30-15.10.18:341][257]LogEditorActor: Deleted Actor: BP_Beams_C
+[2025.10.30-15.10.18:383][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.30-15.10.18:384][257]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2025.10.30-15.10.22:464][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.30-15.10.23:490][698]LogSlate: Window 'Save Content' being destroyed
+[2025.10.30-15.10.23:500][698]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-15.10.23:564][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.30-15.10.23:585][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.30-15.10.23:603][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.10.30-15.10.23:607][698]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/SH/SYEFELGLZH521AZMEUN0FA
+[2025.10.30-15.10.23:607][698]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SYEFELGLZH521AZMEUN0FAB36D65084170C94849F5E89FD8B16DAC.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/SH/SYEFELGLZH521AZMEUN0FA.uasset'
+[2025.10.30-15.10.23:609][698]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/Obstacles/BP_Beams] ([2] browsable assets)...
+[2025.10.30-15.10.23:651][698]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/Obstacles/BP_Beams.BP_Beams]
+[2025.10.30-15.10.23:651][698]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/BP_Beams]
+[2025.10.30-15.10.23:654][698]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Obstacles/BP_Beams
+[2025.10.30-15.10.23:654][698]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/BP_Beams88D54D6E403D1E4B9B34BB8E4E1E15C7.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/Production/Blueprints/Obstacles/BP_Beams.uasset'
+[2025.10.30-15.10.23:662][698]LogFileHelpers: InternalPromptForCheckoutAndSave took 162.204 ms (total: 1.77 sec)
+[2025.10.30-15.10.23:717][698]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.30-15.10.23:717][698]LogContentValidation: Enabled validators:
+[2025.10.30-15.10.23:717][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-15.10.23:717][698]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-15.10.23:717][698]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-15.10.23:717][698]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-15.10.23:717][698]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-15.10.23:717][698]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-15.10.23:717][698]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.30-15.10.23:717][698]AssetCheck: /Game/Production/Blueprints/Obstacles/BP_Beams Validating asset
+[2025.10.30-15.10.23:732][698]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
