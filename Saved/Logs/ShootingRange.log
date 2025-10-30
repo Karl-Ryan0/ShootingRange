@@ -1424,3 +1424,1007 @@ FPackageName: Skipped package /Game/StarterContent/Materials/M_Ground_Gravel has
 [2025.10.30-14.18.33:453][ 87]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
 [2025.10.30-14.18.33:467][ 87]LogAutomationController: Ignoring very large delta of 2.47 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2025.10.30-14.18.33:468][ 87]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-14.19.05:380][711]Cmd: DELETE
+[2025.10.30-14.19.05:380][711]Cmd: ACTOR DELETE
+[2025.10.30-14.19.05:381][711]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.30-14.19.05:391][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.10.30-14.19.05:393][711]LogEditorActor: Deleted 1 Actors (0.013 secs)
+[2025.10.30-14.20.07:773][364]LogStreaming: Display: FlushAsyncLoading(393): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.20.07:811][365]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.30-14.20.07:913][368]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.30-14.20.07:963][369]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.30-14.20.10:803][660]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Characters/Mannequins/Meshes/SKM_Quinn_Simple.SKM_Quinn_Simple
+[2025.10.30-14.20.10:823][660]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.30-14.20.10:828][660]LogStreaming: Display: FlushAsyncLoading(394): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.20.10:856][660]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.30-14.20.20:221][189]LogSlate: Window 'SKM_Quinn_Simple' being destroyed
+[2025.10.30-14.20.20:255][189]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.20.20:255][189]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.20.20:301][189]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.30-14.20.22:683][408]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/Mannequins/Meshes/SK_Mannequin.SK_Mannequin
+[2025.10.30-14.20.22:683][408]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.30-14.20.22:689][408]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2025.10.30-14.20.22:963][408]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.30-14.20.25:580][559]LogSlate: Window 'SK_Mannequin' being destroyed
+[2025.10.30-14.20.25:595][559]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.20.25:595][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.20.25:615][559]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.20.25:615][559]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.20.25:639][559]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.10.30-14.21.00:390][587]LogStreaming: Display: FlushAsyncLoading(400): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.21.09:564][581]LogStreaming: Display: FlushAsyncLoading(401): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.21.30:898][951]LogStreaming: Display: FlushAsyncLoading(402): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.21.40:180][957]LogStreaming: Display: FlushAsyncLoading(403): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.21.47:387][770]Cmd: TRANSACTION UNDO
+[2025.10.30-14.21.47:387][770]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.30-14.21.47:843][778]Cmd: TRANSACTION UNDO
+[2025.10.30-14.21.47:843][778]LogEditorTransaction: Undo Replace component used material
+[2025.10.30-14.21.48:477][843]Cmd: TRANSACTION UNDO
+[2025.10.30-14.21.48:477][843]LogEditorTransaction: Undo Replace component used material
+[2025.10.30-14.21.48:931][892]Cmd: TRANSACTION UNDO
+[2025.10.30-14.21.48:931][892]LogEditorTransaction: Undo Replace component used material
+[2025.10.30-14.21.49:561][960]Cmd: TRANSACTION UNDO
+[2025.10.30-14.21.49:561][960]LogEditorTransaction: Undo Clicking on Elements
+[2025.10.30-14.21.50:300][ 33]Cmd: TRANSACTION UNDO
+[2025.10.30-14.21.50:300][ 33]LogEditorTransaction: Undo Replace component used material
+[2025.10.30-14.21.51:398][150]Cmd: TRANSACTION UNDO
+[2025.10.30-14.21.51:398][150]LogEditorTransaction: Undo Replace component used material
+[2025.10.30-14.21.52:793][254]Cmd: TRANSACTION UNDO
+[2025.10.30-14.21.52:793][254]LogEditorTransaction: Undo Replace component used material
+[2025.10.30-14.21.55:186][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.30-14.21.56:260][520]LogSlate: Window 'Save Content' being destroyed
+[2025.10.30-14.21.56:268][520]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.21.56:323][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.10.30-14.21.56:333][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.30-14.21.56:356][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.10.30-14.21.56:364][520]LogFileHelpers: InternalPromptForCheckoutAndSave took 95.723 ms (total: 216.869 ms)
+[2025.10.30-14.21.56:370][520]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Total job queries 561, among them cache hits 62 (11.05%), DDC hits 423 (75.40%), Duplicates 70 (12.48%)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Tracking 429 distinct input hashes that result in 310 distinct outputs (72.26%)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: RAM used: 3.77 MiB of 1.60 GiB budget. Usage: 0.23%
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Shaders Compiled: 6
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Jobs assigned 6, completed 6 (100%)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Average time worker was idle: 29.78 s
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.05 s
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Job execution time: average 0.64 s, max 1.03 s
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Job life time (pending + execution): average 0.66 s, max 1.08
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Shader code size: total 60.77 KiB, numShaders 6, average 10.128 KiB, min 7.609 KiB, max 13.48 KiB
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.80 s
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Jobs were issued in 6 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Average processing rate: 3.33 jobs/sec
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Total thread time: 2.058 s
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Total thread preprocess time: 6.36 s
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Percentage time preprocessing: 309.11%
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Effective parallelization: 1.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.095228
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 0.54 sec, max 0.55 sec, min 0.54 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.30 sec, max 0.30 sec, min 0.29 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                                 FLumenCardPS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 52.84% of total time (compiled    2 times, average 0.54 sec, max 0.55 sec, min 0.54 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 28.83% of total time (compiled    2 times, average 0.30 sec, max 0.30 sec, min 0.29 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.34% of total time (compiled    2 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                                 FLumenCardPS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display:                                             FDebugViewModePS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Materials Translated:    147
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Material Translation Only: 0.03 s (35%)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: Material Cache Hits: 23 (16%)
+[2025.10.30-14.22.04:909][509]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.22.12:653][415]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2025.10.30-14.22.12:657][415]LogContentBrowser: Creating deferred item: NewFolder
+[2025.10.30-14.22.12:707][417]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2025.10.30-14.22.17:630][988]LogContentBrowser: Attempting asset rename: NewFolder -> Obstacles
+[2025.10.30-14.22.17:630][988]LogContentBrowser: End creating deferred item NewFolder
+[2025.10.30-14.22.22:615][390]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.30-14.22.22:622][390]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.30-14.22.22:626][390]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.30-14.22.22:648][392]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.30-14.22.47:357][287]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_BasicObstacle
+[2025.10.30-14.22.47:361][287]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.30-14.22.47:703][326]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle
+[2025.10.30-14.22.47:703][326]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_8
+[2025.10.30-14.22.47:782][326]LogStreaming: Display: FlushAsyncLoading(404): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.22.52:118][652]LogSlate: Window 'BP_BasicObstacle' being destroyed
+[2025.10.30-14.23.03:270][946]LogStreaming: Display: FlushAsyncLoading(601): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.23.03:271][946]LogStaticMesh: Display: Building static mesh 1x1x1_Box_Pivot_-XYZ (Required Memory Estimate: 0.024887 MB)...
+[2025.10.30-14.23.03:272][946]LogStaticMesh: Built static mesh [0.00s] /Engine/Functions/Engine_MaterialFunctions02/SupportFiles/1x1x1_Box_Pivot_-XYZ.1x1x1_Box_Pivot_-XYZ
+[2025.10.30-14.23.03:277][946]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_9
+[2025.10.30-14.23.06:102][259]LogStreaming: Display: FlushAsyncLoading(602): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.23.06:103][259]LogStaticMesh: Display: Building static mesh AnimTreeEd_PreviewFloor (Required Memory Estimate: 3.43098 MB)...
+[2025.10.30-14.23.06:111][259]LogStaticMesh: Built static mesh [0.01s] /Engine/EditorMeshes/AnimTreeEd_PreviewFloor.AnimTreeEd_PreviewFloor
+[2025.10.30-14.23.16:912][422]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 974.406799
+[2025.10.30-14.23.17:087][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.23.17:087][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 974.573669, Update Interval: 310.770599
+[2025.10.30-14.23.30:446][  6]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.30-14.23.31:662][113]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.23.31:662][113]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.23.31:663][113]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_0
+[2025.10.30-14.23.31:663][113]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_0
+[2025.10.30-14.23.31:667][113]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.10.30-14.23.32:056][151]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.30-14.23.32:072][151]LogEditorActor: Deleted 0 Actors (0.044 secs)
+[2025.10.30-14.23.32:075][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.23.32:075][151]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.23.32:077][151]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664609D02_2086856190
+[2025.10.30-14.23.32:078][151]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664609D02_2086856190
+[2025.10.30-14.23.36:465][652]Cmd: DELETE
+[2025.10.30-14.23.36:465][652]Cmd: ACTOR DELETE
+[2025.10.30-14.23.36:466][652]LogEditorActor: Deleted Actor: BP_BasicObstacle_C
+[2025.10.30-14.23.36:487][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.30-14.23.36:489][652]LogEditorActor: Deleted 1 Actors (0.024 secs)
+[2025.10.30-14.23.46:706][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.30-14.23.48:278][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.23.48:278][  9]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.23.48:278][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_1
+[2025.10.30-14.23.48:279][  9]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_1
+[2025.10.30-14.23.51:493][380]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.30-14.23.51:494][380]LogEditorActor: Deleted 0 Actors (0.021 secs)
+[2025.10.30-14.23.51:497][380]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.23.51:497][380]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.23.51:500][380]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664609D02_2106278191
+[2025.10.30-14.23.51:501][380]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664609D02_2106278191
+[2025.10.30-14.23.57:820][108]Cmd: DELETE
+[2025.10.30-14.23.57:820][108]Cmd: ACTOR DELETE
+[2025.10.30-14.23.57:821][108]LogEditorActor: Deleted Actor: BP_BasicObstacle_C
+[2025.10.30-14.23.57:840][108]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.10.30-14.23.57:841][108]LogEditorActor: Deleted 1 Actors (0.021 secs)
+[2025.10.30-14.24.14:827][127]Cmd: MODE GRID=0
+[2025.10.30-14.24.20:228][772]Cmd: MODE GRID=1
+[2025.10.30-14.24.40:056][127]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-14.24.41:690][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.24.41:690][289]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.24.41:691][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_2
+[2025.10.30-14.24.41:692][289]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_2
+[2025.10.30-14.24.42:686][403]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-14.24.42:688][403]LogEditorActor: Deleted 0 Actors (0.023 secs)
+[2025.10.30-14.24.42:690][403]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.24.42:690][403]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.24.42:693][403]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664619D02_1083729368
+[2025.10.30-14.24.42:693][403]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664619D02_1083729368
+[2025.10.30-14.24.50:701][297]Cmd: MODE GRID=0
+[2025.10.30-14.24.51:640][405]Cmd: MODE GRID=1
+[2025.10.30-14.25.04:506][879]Cmd: DELETE
+[2025.10.30-14.25.04:506][879]Cmd: ACTOR DELETE
+[2025.10.30-14.25.04:508][879]LogEditorActor: Deleted Actor: BP_BasicObstacle_C
+[2025.10.30-14.25.04:531][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.30-14.25.04:533][879]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2025.10.30-14.25.24:953][304]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-14.25.26:351][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.25.26:351][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.25.26:352][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_3
+[2025.10.30-14.25.26:353][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_3
+[2025.10.30-14.25.27:192][526]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.30-14.25.27:194][526]LogEditorActor: Deleted 0 Actors (0.025 secs)
+[2025.10.30-14.25.27:197][526]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.25.27:198][526]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.25.27:200][526]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664619D02_1128237369
+[2025.10.30-14.25.27:201][526]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664619D02_1128237369
+[2025.10.30-14.25.28:428][662]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-14.25.28:431][662]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.30-14.25.28:431][662]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.30-14.25.28:431][662]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 552 us
+[2025.10.30-14.25.28:433][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-14.25.28:437][662]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.10.30-14.25.28:437][662]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.10.30-14.25.28:437][662]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.25.28:438][662]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.30-14.25.28:439][662]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 321 us
+[2025.10.30-14.25.28:439][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002081s)
+[2025.10.30-14.25.28:439][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002114s)
+[2025.10.30-14.25.28:463][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.25.28:464][662]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.30-14.25.28:465][662]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.30-14.25.28:465][662]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.30-14.25.28:465][662]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.30-14.25.28:465][662]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.30-14.25.28:466][662]LogWorldPartition: Display: WorldPartition initialize took 538 us (total: 42.664 ms)
+[2025.10.30-14.25.28:466][662]LogPlayLevel: PIE: World Init took: (0.001737s)
+[2025.10.30-14.25.28:467][662]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.30-14.25.28:467][662]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.25.28:467][662]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.25.28:467][662]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.25.28:467][662]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.25.28:467][662]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.25.28:467][662]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.25.28:467][662]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.25.28:467][662]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.25.28:467][662]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.25.28:467][662]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.25.28:467][662]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.25.28:468][662]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.25.28:484][662]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.30-14.25.28:484][662]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.25.28:484][662]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.25.28:484][662]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.25.28:485][662]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.30-14.25.28:485][662]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.30-14.25.28:486][662]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.30-14.25.28:486][662]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.30-14.25.28:486][662]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.30-14.25.28:486][662]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_FirstPerson'.
+[2025.10.30-14.25.28:486][662]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.30-14.25.28:489][662]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.30-14.25.28:490][662]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.30-14.25.28
+[2025.10.30-14.25.28:490][662]LogWorld: Bringing up level for play took: 0.000903
+[2025.10.30-14.25.28:492][662]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.10.30-14.25.28:498][662]PIE: Server logged in
+[2025.10.30-14.25.28:500][662]PIE: Play in editor total start time 0.07 seconds.
+[2025.10.30-14.25.28:547][663]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.30-14.25.32:525][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.25.32:525][ 34]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.25.32:525][ 34]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.25.32:526][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.25.32:526][ 34]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.30-14.25.32:528][ 34]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.25.32:530][ 34]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.25.32:559][ 34]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.25.32:559][ 34]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.30-14.25.32:559][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.10.30-14.25.32:560][ 34]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.10.30-14.25.32:565][ 34]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.30-14.25.32:590][ 35]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.10.30-14.25.54:368][243]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-14.25.55:848][377]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-14.25.55:852][377]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.30-14.25.55:852][377]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.30-14.25.55:852][377]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 410 us (total: 963 us)
+[2025.10.30-14.25.55:852][377]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-14.25.55:895][377]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.25.55:897][377]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.30-14.25.55:897][377]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 298 us (total: 620 us)
+[2025.10.30-14.25.55:897][377]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002117s)
+[2025.10.30-14.25.55:898][377]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002157s)
+[2025.10.30-14.25.55:913][377]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2025.10.30-14.25.55:915][377]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.30-14.25.55:917][377]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.30-14.25.55:917][377]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.30-14.25.55:917][377]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.30-14.25.55:917][377]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.30-14.25.55:917][377]LogWorldPartition: Display: WorldPartition initialize took 530 us (total: 43.194 ms)
+[2025.10.30-14.25.55:917][377]LogPlayLevel: PIE: World Init took: (0.001856s)
+[2025.10.30-14.25.55:918][377]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.30-14.25.55:918][377]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.25.55:918][377]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.25.55:918][377]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.25.55:918][377]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.25.55:918][377]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.25.55:918][377]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.25.55:918][377]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.25.55:918][377]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.25.55:918][377]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.25.55:918][377]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.25.55:918][377]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.25.55:920][377]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.25.55:933][377]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.30-14.25.55:933][377]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.25.55:933][377]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.25.55:933][377]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.25.55:934][377]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.30-14.25.55:934][377]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.30-14.25.55:936][377]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.30-14.25.55:936][377]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.30-14.25.55:936][377]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.30-14.25.55:936][377]LogAudio: Display: Audio Device (ID: 3) registered with world 'Lvl_FirstPerson'.
+[2025.10.30-14.25.55:936][377]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.30-14.25.55:938][377]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.30-14.25.55:939][377]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.30-14.25.55
+[2025.10.30-14.25.55:939][377]LogWorld: Bringing up level for play took: 0.000866
+[2025.10.30-14.25.55:941][377]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.10.30-14.25.55:945][377]PIE: Server logged in
+[2025.10.30-14.25.55:947][377]PIE: Play in editor total start time 0.095 seconds.
+[2025.10.30-14.25.55:986][378]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.30-14.25.57:605][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.25.57:605][531]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.25.57:605][531]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.25.57:606][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.25.57:606][531]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.30-14.25.57:607][531]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.25.57:609][531]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.25.57:623][531]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.25.57:623][531]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.30-14.25.57:623][531]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.10.30-14.25.57:625][531]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.10.30-14.25.57:629][531]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.30-14.25.57:685][534]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.10.30-14.26.18:509][515]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2025.10.30-14.26.20:352][687]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.30-14.26.20:355][687]LogContentBundle: [Lvl_FirstPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.30-14.26.20:355][687]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' started...
+[2025.10.30-14.26.20:356][687]LogWorldPartition: Display: GenerateStreaming for 'Lvl_FirstPerson' took 442 us (total: 1.405 ms)
+[2025.10.30-14.26.20:356][687]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.30-14.26.20:356][687]LogPlayLevel: Creating play world package: /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.26.20:358][687]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.30-14.26.20:358][687]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 296 us (total: 916 us)
+[2025.10.30-14.26.20:358][687]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002010s)
+[2025.10.30-14.26.20:358][687]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson to /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson (0.002032s)
+[2025.10.30-14.26.20:386][687]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.30-14.26.20:387][687]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_FirstPerson
+[2025.10.30-14.26.20:388][687]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_FirstPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.30-14.26.20:388][687]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.30-14.26.20:388][687]LogWorldPartition: UWorldPartition::Initialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.30-14.26.20:388][687]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.30-14.26.20:388][687]LogWorldPartition: Display: WorldPartition initialize took 506 us (total: 43.701 ms)
+[2025.10.30-14.26.20:388][687]LogPlayLevel: PIE: World Init took: (0.001655s)
+[2025.10.30-14.26.20:389][687]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.30-14.26.20:389][687]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.30-14.26.20:389][687]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.30-14.26.20:389][687]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.30-14.26.20:389][687]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.30-14.26.20:389][687]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.30-14.26.20:389][687]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.30-14.26.20:389][687]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.30-14.26.20:389][687]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.30-14.26.20:389][687]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.30-14.26.20:389][687]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.30-14.26.20:389][687]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.30-14.26.20:391][687]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.30-14.26.20:405][687]LogAudioMixer: Display: Using Audio Hardware Device Speakers (High Definition Audio Device)
+[2025.10.30-14.26.20:405][687]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.30-14.26.20:405][687]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.30-14.26.20:405][687]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.30-14.26.20:406][687]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.30-14.26.20:406][687]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.30-14.26.20:407][687]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.30-14.26.20:407][687]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.30-14.26.20:407][687]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.30-14.26.20:407][687]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_FirstPerson'.
+[2025.10.30-14.26.20:407][687]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.30-14.26.20:410][687]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.10.30-14.26.20:411][687]LogWorld: Bringing World /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson up for play (max tick rate 0) at 2025.10.30-14.26.20
+[2025.10.30-14.26.20:411][687]LogWorld: Bringing up level for play took: 0.000886
+[2025.10.30-14.26.20:413][687]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.10.30-14.26.20:417][687]PIE: Server logged in
+[2025.10.30-14.26.20:419][687]PIE: Play in editor total start time 0.064 seconds.
+[2025.10.30-14.26.20:468][688]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.30-14.26.21:946][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.26.21:946][822]LogWorld: BeginTearingDown for /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson
+[2025.10.30-14.26.21:946][822]LogWorld: UWorld::CleanupWorld for Lvl_FirstPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.30-14.26.21:946][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.26.21:946][822]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/FirstPerson/UEDPIE_0_Lvl_FirstPerson.Lvl_FirstPerson
+[2025.10.30-14.26.21:948][822]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.30-14.26.21:950][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.30-14.26.21:983][822]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.30-14.26.21:983][822]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.30-14.26.21:983][822]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.10.30-14.26.21:986][822]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.10.30-14.26.21:990][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.30-14.26.22:018][823]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.10.30-14.26.25:055][110]Cmd: DELETE
+[2025.10.30-14.26.25:055][110]Cmd: ACTOR DELETE
+[2025.10.30-14.26.25:056][110]LogEditorActor: Deleted Actor: BP_BasicObstacle_C
+[2025.10.30-14.26.25:072][110]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.30-14.26.25:073][110]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2025.10.30-14.26.52:301][320]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-14.27.06:707][975]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:707][975]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:716][976]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:716][976]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:716][976]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:724][977]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:724][977]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:725][977]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:732][978]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:732][978]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:733][978]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:741][979]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:741][979]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:741][979]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:749][980]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:749][980]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:749][980]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:757][981]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:757][981]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:757][981]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:766][982]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:766][982]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:766][982]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:774][983]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:774][983]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:774][983]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:782][984]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:783][984]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:783][984]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:790][985]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:791][985]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:791][985]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:798][986]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:799][986]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:799][986]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:807][987]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:808][987]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:808][987]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:816][988]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:816][988]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:816][988]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:824][989]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:824][989]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:824][989]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:832][990]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:832][990]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:832][990]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:840][991]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:840][991]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:840][991]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:848][992]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:849][992]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:849][992]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:857][993]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:857][993]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:857][993]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:865][994]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:866][994]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:866][994]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:873][995]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:873][995]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:873][995]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:883][996]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:883][996]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:883][996]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:890][997]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:891][997]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:891][997]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:899][998]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:899][998]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:899][998]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:907][999]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:907][999]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:907][999]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:916][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:916][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:916][  0]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:924][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:924][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:924][  1]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:932][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:933][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:933][  2]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:941][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:941][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:941][  3]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:949][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:949][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:949][  4]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:957][  5]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:957][  5]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:957][  5]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:965][  6]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:965][  6]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:965][  6]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:973][  7]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:973][  7]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:973][  7]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:982][  8]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:983][  8]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:983][  8]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:990][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:991][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:991][  9]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:998][ 10]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:998][ 10]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.06:998][ 10]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:007][ 11]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:007][ 11]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:007][ 11]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:016][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:016][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:016][ 12]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:023][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:023][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:023][ 13]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:032][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:032][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:032][ 14]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:040][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:041][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:041][ 15]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:049][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:049][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:050][ 16]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:057][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:058][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:058][ 17]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:065][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:066][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:066][ 18]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:073][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:073][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:073][ 19]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:083][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:083][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:083][ 20]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:091][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:091][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:091][ 21]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:098][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:099][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:099][ 22]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:107][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:107][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:107][ 23]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:116][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:116][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:116][ 24]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:123][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:123][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:123][ 25]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:132][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:132][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:132][ 26]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:141][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:141][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:141][ 27]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:149][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:149][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:149][ 28]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:158][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:158][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:158][ 29]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:166][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:166][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:166][ 30]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:174][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:174][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:174][ 31]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:183][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.07:183][ 32]LogPhysics: Warning: Scale for /Engine/Transient.World_8:PersistentLevel.BP_BasicObstacle_C_0.Cube has a component set to zero, which will result in a bad body instance. Scale:X=1.000 Y=1.000 Z=0.000
+[2025.10.30-14.27.15:426][ 19]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-14.27.15:832][ 26]LogEditorTransaction: Undo Modify Component(s)
+[2025.10.30-14.27.46:657][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.10.30-14.28.13:872][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.30-14.28.39:036][890]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1296.542358
+[2025.10.30-14.28.39:211][910]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.28.39:211][910]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1296.709106, Update Interval: 357.831970
+[2025.10.30-14.31.19:403][414]LogEditorTransaction: Undo Replace component used material
+[2025.10.30-14.31.20:000][429]LogEditorTransaction: Undo Replace component used material
+[2025.10.30-14.31.51:016][481]LogStreaming: Display: FlushAsyncLoading(603): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.31.56:564][ 98]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.30-14.31.58:338][238]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.31.58:338][238]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.31.58:339][238]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_4
+[2025.10.30-14.31.58:341][238]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_4
+[2025.10.30-14.31.59:919][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.30-14.31.59:920][414]LogEditorActor: Deleted 0 Actors (0.018 secs)
+[2025.10.30-14.31.59:923][414]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.31.59:923][414]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle_C
+[2025.10.30-14.31.59:927][414]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664619D02_1520962370
+[2025.10.30-14.31.59:929][414]LogActorFactory: Actor Factory spawned Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle as actor: BP_BasicObstacle_C /Game/FirstPerson/Lvl_FirstPerson.Lvl_FirstPerson:PersistentLevel.BP_BasicObstacle_C_UAID_D85ED3AE8664619D02_1520962370
+[2025.10.30-14.32.10:843][481]LogStreaming: Display: FlushAsyncLoading(604): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.32.16:684][966]LogStreaming: Display: FlushAsyncLoading(605): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.32.34:619][687]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.34:619][687]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.34:619][687]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.34:624][687]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.37:676][ 41]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.37:676][ 41]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.37:676][ 41]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.37:682][ 41]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.39:935][294]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.39:936][294]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.39:936][294]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.39:942][294]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.44:585][840]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.44:585][840]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.44:585][840]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.44:591][840]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.46:562][ 65]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.46:562][ 65]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.46:562][ 65]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.46:567][ 65]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.47:811][201]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.47:811][201]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.47:811][201]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.47:816][201]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.57:792][268]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.57:792][268]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.57:792][268]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.57:797][268]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.59:792][496]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.59:792][496]LogPathView: [ContentBrowserDrawer][PathView] HandleSettingChanged None
+[2025.10.30-14.32.59:792][496]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.32.59:797][496]LogPathView: [ContentBrowserTab1][PathView] HandleSettingChanged None
+[2025.10.30-14.33.01:999][730]LogStreaming: Display: FlushAsyncLoading(606): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.33.12:527][838]LogStreaming: Display: FlushAsyncLoading(607): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.33.32:261][906]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Total job queries 960, among them cache hits 180 (18.75%), DDC hits 595 (61.98%), Duplicates 70 (7.29%)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Tracking 710 distinct input hashes that result in 524 distinct outputs (73.80%)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: RAM used: 5.30 MiB of 1.60 GiB budget. Usage: 0.32%
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Shaders Compiled: 115
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Jobs assigned 115, completed 115 (100%)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Average time worker was idle: 21.66 s
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Job execution time: average 0.47 s, max 1.03 s
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Job life time (pending + execution): average 0.52 s, max 1.08
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Shader code size: total 1.064 MiB, numShaders 130, average 8.386 KiB, min 2.891 KiB, max 13.48 KiB
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 27.19 s
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Jobs were issued in 115 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Average processing rate: 4.23 jobs/sec
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Total thread time: 44.545 s
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Total thread preprocess time: 10.098 s
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Percentage time preprocessing: 22.67%
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Effective parallelization: 1.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 12 - 0.136544
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   12 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   25 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                                                  FVelocityPS (compiled   12 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                                                 FDepthOnlyPS (compiled    3 times, average 0.34 sec, max 0.35 sec, min 0.33 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 0.28 sec, max 0.28 sec, min 0.28 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.83% of total time (compiled   25 times, average 0.50 sec, max 0.74 sec, min 0.43 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.37% of total time (compiled   46 times, average 0.27 sec, max 0.53 sec, min 0.23 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 17.34% of total time (compiled   12 times, average 0.64 sec, max 0.68 sec, min 0.60 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                                                  FVelocityPS - 9.94% of total time (compiled   12 times, average 0.37 sec, max 0.44 sec, min 0.35 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display:                                                  FVelocityVS - 6.06% of total time (compiled   12 times, average 0.22 sec, max 0.34 sec, min 0.21 sec)
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: === Material stats ===
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Materials Translated:    153
+[2025.10.30-14.34.04:933][594]LogShaderCompilers: Display: Material Total Translate Time: 0.08 s
+[2025.10.30-14.34.04:934][594]LogShaderCompilers: Display: Material Translation Only: 0.03 s (35%)
+[2025.10.30-14.34.04:934][594]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.30-14.34.04:934][594]LogShaderCompilers: Display: Material Cache Hits: 23 (15%)
+[2025.10.30-14.34.04:934][594]LogShaderCompilers: Display: ================================================
+[2025.10.30-14.34.19:591][334]LogStreaming: Display: FlushAsyncLoading(608): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.34.22:453][418]LogFab: Display: Logging in using persist
+[2025.10.30-14.34.22:454][418]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.10.30-14.34.23:130][418]LogWebBrowser: Loaded CEF3 version 90.6.7.2358 from C:/Program Files/Epic Games/UE_5.6/Engine/Binaries/ThirdParty/CEF3/Win64/
+[2025.10.30-14.34.23:131][418]LogCEFBrowser: CEF GPU acceleration enabled
+[2025.10.30-14.34.23:187][418]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.10.30-14.34.23:187][418]LogFab: Display: Logging in using exchange code
+[2025.10.30-14.34.23:187][418]LogFab: Display: Reading exchange code from commandline
+[2025.10.30-14.34.23:187][418]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.10.30-14.34.23:199][419]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.10.30-14.34.25:581][697]LogEOSSDK: Error: LogEOS: EOS_Auth_CopyUserAuthToken - One or more parameters are null
+[2025.10.30-14.34.25:581][697]LogFab: Error: User auth token is invalid - unable to get auth token
+[2025.10.30-14.34.57:690][529]LogSlate: Window 'Fab' being destroyed
+[2025.10.30-14.34.57:696][529]LogSlate: Window 'Fab' being destroyed
+[2025.10.30-14.34.59:193][706]LogWebBrowser: Closing browser during destruction, this may cause a later crash.
+[2025.10.30-14.34.59:193][706]LogWebBrowser: Deleting browser for Url=https://www.fab.com/plugins/ue5/listings/d6d68ac6-d68e-46f3-9d2f-30bc0090420d.
+[2025.10.30-14.34.59:971][760]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1677.473633
+[2025.10.30-14.35.00:646][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.30-14.35.00:646][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1678.139648, Update Interval: 345.796082
+[2025.10.30-14.35.25:856][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.30-14.35.25:860][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0_Auto1
+[2025.10.30-14.35.25:860][854]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/CIZR6W2NYH4Y5P8G67XOU0_Auto119857D4F4AB4A6EFCC3332A7DAE8732A.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0_Auto1.uasset'
+[2025.10.30-14.35.25:861][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/PH/WHYGZ4KTEKX738NIT7UKMN_Auto1
+[2025.10.30-14.35.25:861][854]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/WHYGZ4KTEKX738NIT7UKMN_Auto1ADE040FA4BF76B8B0472DF82CF288203.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/PH/WHYGZ4KTEKX738NIT7UKMN_Auto1.uasset'
+[2025.10.30-14.35.25:862][854]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Lvl_FirstPerson' took 0.024
+[2025.10.30-14.35.25:862][854]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2025.10.30-14.35.25:862][854]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Production/Blueprints/Obstacles/BP_BasicObstacle] ([2] browsable assets)...
+[2025.10.30-14.35.25:992][854]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Production/Blueprints/Obstacles/BP_BasicObstacle.BP_BasicObstacle]
+[2025.10.30-14.35.25:992][854]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/BP_BasicObstacle]
+[2025.10.30-14.35.25:992][854]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Production/Blueprints/Obstacles/BP_BasicObstacle_Auto1
+[2025.10.30-14.35.25:992][854]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/BP_BasicObstacle_Auto1566B659546E960C5A208E1AA4C5873DB.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/Autosaves/Game/Production/Blueprints/Obstacles/BP_BasicObstacle_Auto1.uasset'
+[2025.10.30-14.35.25:992][854]LogFileHelpers: Auto-saving content packages took 0.131
+[2025.10.30-14.35.34:387][120]LogSlate: Took 0.000197 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.30-14.35.39:868][769]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_5.6/FeaturePacks/StarterContent.upack)
+[2025.10.30-14.35.39:871][769]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2025.10.30-14.35.39:919][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2025.10.30-14.35.39:919][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2025.10.30-14.35.39:920][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2025.10.30-14.35.39:920][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2025.10.30-14.35.39:921][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2025.10.30-14.35.39:922][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2025.10.30-14.35.39:922][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2025.10.30-14.35.39:923][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2025.10.30-14.35.39:923][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2025.10.30-14.35.39:924][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2025.10.30-14.35.39:924][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2025.10.30-14.35.39:925][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2025.10.30-14.35.39:926][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2025.10.30-14.35.39:927][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2025.10.30-14.35.39:928][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Maps/Minimal_Default.umap"
+[2025.10.30-14.35.39:931][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2025.10.30-14.35.39:931][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Maps/StarterMap.umap"
+[2025.10.30-14.35.39:945][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2025.10.30-14.35.39:946][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2025.10.30-14.35.39:947][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/P_Explosion.uasset"
+[2025.10.30-14.35.39:948][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/P_Fire.uasset"
+[2025.10.30-14.35.39:949][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/P_Smoke.uasset"
+[2025.10.30-14.35.39:949][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/P_Sparks.uasset"
+[2025.10.30-14.35.39:950][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2025.10.30-14.35.39:951][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2025.10.30-14.35.39:952][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2025.10.30-14.35.39:952][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2025.10.30-14.35.39:953][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2025.10.30-14.35.39:953][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2025.10.30-14.35.39:955][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2025.10.30-14.35.39:955][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2025.10.30-14.35.39:956][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2025.10.30-14.35.39:958][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Collapse01.uasset"
+[2025.10.30-14.35.39:959][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Collapse02.uasset"
+[2025.10.30-14.35.39:959][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2025.10.30-14.35.39:960][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Explosion01.uasset"
+[2025.10.30-14.35.39:961][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Explosion02.uasset"
+[2025.10.30-14.35.39:962][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2025.10.30-14.35.39:963][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Fire01.uasset"
+[2025.10.30-14.35.39:964][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2025.10.30-14.35.39:965][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2025.10.30-14.35.39:966][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2025.10.30-14.35.39:967][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Light01.uasset"
+[2025.10.30-14.35.39:967][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2025.10.30-14.35.39:968][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Light02.uasset"
+[2025.10.30-14.35.39:968][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2025.10.30-14.35.39:969][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Smoke01.uasset"
+[2025.10.30-14.35.39:970][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2025.10.30-14.35.39:970][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2025.10.30-14.35.39:974][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2025.10.30-14.35.39:984][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2025.10.30-14.35.39:984][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2025.10.30-14.35.39:987][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2025.10.30-14.35.39:990][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2025.10.30-14.35.39:992][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Steam01.uasset"
+[2025.10.30-14.35.39:992][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2025.10.30-14.35.39:993][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/MaterialSphere.uasset"
+[2025.10.30-14.35.39:995][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Bush.uasset"
+[2025.10.30-14.35.39:995][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Chair.uasset"
+[2025.10.30-14.35.39:996][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2025.10.30-14.35.39:996][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Couch.uasset"
+[2025.10.30-14.35.39:997][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Door.uasset"
+[2025.10.30-14.35.39:998][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2025.10.30-14.35.39:998][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2025.10.30-14.35.39:999][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2025.10.30-14.35.40:000][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2025.10.30-14.35.40:019][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2025.10.30-14.35.40:020][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2025.10.30-14.35.40:021][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Rock.uasset"
+[2025.10.30-14.35.40:021][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Shelf.uasset"
+[2025.10.30-14.35.40:022][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Stairs.uasset"
+[2025.10.30-14.35.40:023][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_Statue.uasset"
+[2025.10.30-14.35.40:023][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_TableRound.uasset"
+[2025.10.30-14.35.40:024][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2025.10.30-14.35.40:025][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2025.10.30-14.35.40:025][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2025.10.30-14.35.40:057][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2025.10.30-14.35.40:059][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2025.10.30-14.35.40:060][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2025.10.30-14.35.40:061][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2025.10.30-14.35.40:062][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2025.10.30-14.35.40:062][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2025.10.30-14.35.40:063][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2025.10.30-14.35.40:063][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2025.10.30-14.35.40:064][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2025.10.30-14.35.40:064][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2025.10.30-14.35.40:065][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2025.10.30-14.35.40:066][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2025.10.30-14.35.40:066][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2025.10.30-14.35.40:067][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2025.10.30-14.35.40:067][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2025.10.30-14.35.40:068][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2025.10.30-14.35.40:069][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2025.10.30-14.35.40:069][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2025.10.30-14.35.40:070][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2025.10.30-14.35.40:070][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2025.10.30-14.35.40:071][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2025.10.30-14.35.40:071][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2025.10.30-14.35.40:072][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2025.10.30-14.35.40:073][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2025.10.30-14.35.40:074][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2025.10.30-14.35.40:074][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2025.10.30-14.35.40:076][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2025.10.30-14.35.40:076][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2025.10.30-14.35.40:077][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2025.10.30-14.35.40:078][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2025.10.30-14.35.40:078][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2025.10.30-14.35.40:079][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2025.10.30-14.35.40:080][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2025.10.30-14.35.40:080][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2025.10.30-14.35.40:081][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Glass.uasset"
+[2025.10.30-14.35.40:082][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2025.10.30-14.35.40:083][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2025.10.30-14.35.40:083][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2025.10.30-14.35.40:083][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2025.10.30-14.35.40:084][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2025.10.30-14.35.40:084][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2025.10.30-14.35.40:085][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2025.10.30-14.35.40:085][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2025.10.30-14.35.40:086][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2025.10.30-14.35.40:106][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2025.10.30-14.35.40:107][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2025.10.30-14.35.40:108][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2025.10.30-14.35.40:109][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2025.10.30-14.35.40:110][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2025.10.30-14.35.40:110][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2025.10.30-14.35.40:141][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2025.10.30-14.35.40:142][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2025.10.30-14.35.40:143][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2025.10.30-14.35.40:143][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2025.10.30-14.35.40:144][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2025.10.30-14.35.40:144][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2025.10.30-14.35.40:144][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2025.10.30-14.35.40:146][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2025.10.30-14.35.40:146][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2025.10.30-14.35.40:147][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2025.10.30-14.35.40:154][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2025.10.30-14.35.40:163][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2025.10.30-14.35.40:172][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2025.10.30-14.35.40:178][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2025.10.30-14.35.40:189][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2025.10.30-14.35.40:198][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2025.10.30-14.35.40:211][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2025.10.30-14.35.40:219][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2025.10.30-14.35.40:233][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2025.10.30-14.35.40:240][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2025.10.30-14.35.40:249][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2025.10.30-14.35.40:258][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2025.10.30-14.35.40:268][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2025.10.30-14.35.40:268][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2025.10.30-14.35.40:269][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2025.10.30-14.35.40:270][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2025.10.30-14.35.40:271][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2025.10.30-14.35.40:272][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2025.10.30-14.35.40:273][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2025.10.30-14.35.40:276][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2025.10.30-14.35.40:277][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2025.10.30-14.35.40:290][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2025.10.30-14.35.40:292][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2025.10.30-14.35.40:305][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2025.10.30-14.35.40:309][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2025.10.30-14.35.40:312][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2025.10.30-14.35.40:321][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2025.10.30-14.35.40:328][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2025.10.30-14.35.40:337][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2025.10.30-14.35.40:344][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2025.10.30-14.35.40:350][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2025.10.30-14.35.40:353][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2025.10.30-14.35.40:361][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2025.10.30-14.35.40:366][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2025.10.30-14.35.40:371][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2025.10.30-14.35.40:375][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2025.10.30-14.35.40:380][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2025.10.30-14.35.40:381][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2025.10.30-14.35.40:386][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2025.10.30-14.35.40:387][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Door_M.uasset"
+[2025.10.30-14.35.40:389][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Door_N.uasset"
+[2025.10.30-14.35.40:389][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2025.10.30-14.35.40:392][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2025.10.30-14.35.40:393][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2025.10.30-14.35.40:394][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2025.10.30-14.35.40:396][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2025.10.30-14.35.40:397][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2025.10.30-14.35.40:398][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2025.10.30-14.35.40:406][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2025.10.30-14.35.40:413][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2025.10.30-14.35.40:420][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2025.10.30-14.35.40:424][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2025.10.30-14.35.40:435][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2025.10.30-14.35.40:441][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2025.10.30-14.35.40:442][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2025.10.30-14.35.40:444][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2025.10.30-14.35.40:450][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2025.10.30-14.35.40:456][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2025.10.30-14.35.40:462][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2025.10.30-14.35.40:467][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2025.10.30-14.35.40:469][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2025.10.30-14.35.40:475][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2025.10.30-14.35.40:480][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2025.10.30-14.35.40:483][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2025.10.30-14.35.40:487][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2025.10.30-14.35.40:492][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2025.10.30-14.35.40:495][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2025.10.30-14.35.40:497][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2025.10.30-14.35.40:503][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2025.10.30-14.35.40:509][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2025.10.30-14.35.40:512][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2025.10.30-14.35.40:518][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2025.10.30-14.35.40:523][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2025.10.30-14.35.40:532][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2025.10.30-14.35.40:537][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2025.10.30-14.35.40:543][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2025.10.30-14.35.40:543][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2025.10.30-14.35.40:563][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2025.10.30-14.35.40:564][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2025.10.30-14.35.40:566][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2025.10.30-14.35.40:567][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2025.10.30-14.35.40:567][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2025.10.30-14.35.40:568][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2025.10.30-14.35.40:569][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2025.10.30-14.35.40:570][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2025.10.30-14.35.40:572][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2025.10.30-14.35.40:572][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2025.10.30-14.35.40:573][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2025.10.30-14.35.40:574][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2025.10.30-14.35.40:575][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2025.10.30-14.35.40:575][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2025.10.30-14.35.40:577][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2025.10.30-14.35.40:579][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Water_M.uasset"
+[2025.10.30-14.35.40:582][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Water_N.uasset"
+[2025.10.30-14.35.40:586][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2025.10.30-14.35.40:589][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2025.10.30-14.35.40:591][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2025.10.30-14.35.40:596][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2025.10.30-14.35.40:601][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2025.10.30-14.35.40:608][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2025.10.30-14.35.40:611][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2025.10.30-14.35.40:616][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2025.10.30-14.35.40:619][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2025.10.30-14.35.40:620][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2025.10.30-14.35.40:620][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2025.10.30-14.35.40:621][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2025.10.30-14.35.40:621][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2025.10.30-14.35.40:621][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2025.10.30-14.35.40:622][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2025.10.30-14.35.40:623][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2025.10.30-14.35.40:623][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2025.10.30-14.35.40:623][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2025.10.30-14.35.40:624][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2025.10.30-14.35.40:624][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2025.10.30-14.35.40:625][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2025.10.30-14.35.40:625][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2025.10.30-14.35.40:625][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2025.10.30-14.35.40:626][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2025.10.30-14.35.40:627][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2025.10.30-14.35.40:627][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2025.10.30-14.35.40:628][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2025.10.30-14.35.40:628][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2025.10.30-14.35.40:629][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2025.10.30-14.35.40:629][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2025.10.30-14.35.40:630][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2025.10.30-14.35.40:630][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2025.10.30-14.35.40:631][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2025.10.30-14.35.40:631][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2025.10.30-14.35.40:632][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2025.10.30-14.35.40:632][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2025.10.30-14.35.40:633][769]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2025.10.30-14.35.40:633][769]LogStreaming: Display: FlushAsyncLoading(636): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.30-14.35.40:633][769]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2025.10.30-14.35.40:660][769]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.35.41:100][769]LogTexture: Display: Building textures: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight (RGBA16F, 7372x3686 x1x1x1) (Required Memory Estimate: 543.287506 MB), EncodeSpeed: Fast
+[2025.10.30-14.35.41:588][769]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight] ([1] browsable assets)...
+[2025.10.30-14.35.41:588][769]OBJ SavePackage: Finished generating thumbnails for package [/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight]
+[2025.10.30-14.35.41:745][769]LogSavePackage: Moving output files for package: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight
+[2025.10.30-14.35.41:745][769]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/HDRI_Epic_Courtyard_DaylightD6D7BD0E4FF635188AF5A9A06CC93F33.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset'
+[2025.10.30-14.35.41:756][769]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.09 sec (total: 1.31 sec)
+[2025.10.30-14.35.41:837][769]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.30-14.35.41:837][769]LogContentValidation: Enabled validators:
+[2025.10.30-14.35.41:837][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.35.41:837][769]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.35.41:837][769]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.35.41:837][769]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.35.41:837][769]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.35.41:837][769]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.35.41:837][769]AssetCheck: /Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight Validating asset
+[2025.10.30-14.35.41:849][769]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.30-14.35.45:587][192]LogSlate: Window 'Add Content to the Project' being destroyed
+[2025.10.30-14.36.31:179][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.30-14.36.32:841][744]LogSlate: Window 'Save Content' being destroyed
+[2025.10.30-14.36.32:848][744]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.30-14.36.32:900][744]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Production/Blueprints/Obstacles/BP_BasicObstacle] ([2] browsable assets)...
+[2025.10.30-14.36.32:900][744]OBJ SavePackage: Finished generating thumbnails for package [/Game/Production/Blueprints/Obstacles/BP_BasicObstacle]
+[2025.10.30-14.36.32:903][744]LogSavePackage: Moving output files for package: /Game/Production/Blueprints/Obstacles/BP_BasicObstacle
+[2025.10.30-14.36.32:903][744]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/BP_BasicObstacle920400B44D8941F028349AB359393D4F.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/Production/Blueprints/Obstacles/BP_BasicObstacle.uasset'
+[2025.10.30-14.36.32:906][744]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/PH/WHYGZ4KTEKX738NIT7UKMN
+[2025.10.30-14.36.32:906][744]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/WHYGZ4KTEKX738NIT7UKMNF8102F854C077B910E569D910EF23742.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/9/PH/WHYGZ4KTEKX738NIT7UKMN.uasset'
+[2025.10.30-14.36.32:908][744]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0
+[2025.10.30-14.36.32:908][744]LogSavePackage: Moving 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/CIZR6W2NYH4Y5P8G67XOU0E27BDD264059A20966AB02B2419D6C08.tmp' to 'D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/2/EG/CIZR6W2NYH4Y5P8G67XOU0.uasset'
+[2025.10.30-14.36.32:920][744]LogFileHelpers: InternalPromptForCheckoutAndSave took 72.504 ms (total: 1.38 sec)
+[2025.10.30-14.36.32:966][744]LogContentValidation: Display: Starting to validate 4 assets
+[2025.10.30-14.36.32:967][744]LogContentValidation: Enabled validators:
+[2025.10.30-14.36.32:967][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.30-14.36.32:967][744]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.30-14.36.32:967][744]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.30-14.36.32:967][744]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.30-14.36.32:967][744]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.30-14.36.32:967][744]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.30-14.36.32:967][744]AssetCheck: /Game/Production/Blueprints/Obstacles/BP_BasicObstacle Validating asset
+[2025.10.30-14.36.32:967][744]AssetCheck: /Game/FirstPerson/Lvl_FirstPerson Validating asset
+[2025.10.30-14.36.32:981][744]LogAutomationController: Ignoring very large delta of 2.15 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.10.30-14.36.32:982][745]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/School/Game Design/Introduction to Programming/Unreal Projects/Gun Exercise/ShootingRange/Saved/SourceControl/UncontrolledChangelists.json
