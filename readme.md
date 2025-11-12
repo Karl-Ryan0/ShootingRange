@@ -127,3 +127,4 @@ This will quite simply reset the game when stepped on.
 * At one point during experimentation the blueprints had gotten so out of scope that I deemed it unrecoverable and abandoned it for an earlier build.
 * The beams blueprint is supposed to allow impulses to pass through the empty spaces but this does not seem to be allowed.
 * Spawning weapons somehow seemed to spawn them at the player start location, this was fixed by copying the spawn location blueprint from the player.
+* The bullet blueprint created simply refused to scale regardless of what settings I played with.
